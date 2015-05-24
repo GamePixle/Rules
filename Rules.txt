@@ -2,6 +2,6 @@ Rules:
 1. No playing songs with gore, inapropriate content, etc.
 2. If 1/6 of a server mehs, then that song is skipped.
 3. If a song is played within 10 minutes of the same song it will be skipped.
-4. No songs longer that 8 minutes.
+4. No songs longer than 8 minutes.
 5. No songs of other genres unless mehs never exceeds 1/6 of woots during playing of the song.
 6. No posting links unless I give the O.K.
